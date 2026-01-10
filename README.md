@@ -1,4 +1,15 @@
-[Check out my site](https://ankusht369.github.io/portfolio/)
+### Ankush Mondal
+I enjoy doing open source contribution as my most time I spend doing this. My interest includes Operating system and Database internals, Data Structures and algorithms, Distributed Systems, Cloud Infra sometimes compilers. Currently learning Rust
+
+You can find me on:
+- [Linkedin](https://www.linkedin.com/in/ankushmondal369/)
+- [x](https://x.com/ankushm369)
+- [Reddit](https://www.reddit.com/user/ankush2324235/)
+
+Don't forget to [check out my site](https://ankusht369.github.io/portfolio/)
+
+
+
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
