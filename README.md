@@ -6,7 +6,7 @@ You can find me on:
 - [x](https://x.com/ankushm369)
 - [Reddit](https://www.reddit.com/user/ankush2324235/)
 
-Don't forget to [check out my site](https://ankusht369.github.io/portfolio/)
+Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and also my [contributions](https://ankusht369.github.io/portfolio/contributions.html)
 
 
 
