@@ -8,15 +8,8 @@ You can find me on:
 
 Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and also my [contributions](https://ankusht369.github.io/portfolio/contributions.html)
 ### Top Contributed Repo
----
-[![](https://visitcount.itsvg.in/api?id=ankushT369&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=ankushT369&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-contributor-stats.vercel.app/api?username=ankushT369&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=ankushT369&icon=0&color=0)](https://visitcount.itsvg.in)
