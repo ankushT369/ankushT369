@@ -7,7 +7,13 @@ You can find me on:
 - [Reddit](https://www.reddit.com/user/ankush2324235/)
 
 Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and also my [contributions](https://ankusht369.github.io/portfolio/contributions.html)
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankushT369&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ankushT369&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Blog I recently read: [PostgreSQL's Impressive Scalability](https://vonng.com/en/pg/pg-scalability/) 
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
