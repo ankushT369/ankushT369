@@ -9,12 +9,10 @@ You can find me on:
 Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and also my [contributions](https://ankusht369.github.io/portfolio/contributions.html)
 <!-- ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ankushT369&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
-
-![](https://komarev.com/ghpvc/?username=ankushT369&color=blueviolet)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Blog I read recently: [PostgreSQL's Impressive Scalability](https://vonng.com/en/pg/pg-scalability/) 
 
+<!--![](https://komarev.com/ghpvc/?username=ankushT369&color=blueviolet) -->
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
