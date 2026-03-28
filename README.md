@@ -10,7 +10,7 @@ Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and
 <!-- ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ankushT369&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
 
-[![](https://visitcount.itsvg.in/api?id=ankushT369&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ankushT369&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Blog I read recently: [PostgreSQL's Impressive Scalability](https://vonng.com/en/pg/pg-scalability/) 
