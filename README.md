@@ -10,6 +10,7 @@ I enjoy doing open source contribution as most of my time I spend doing this. My
 - [Linkedin](https://www.linkedin.com/in/ankushmondal369/)
 - [x](https://x.com/ankushm369)
 - [Reddit](https://www.reddit.com/user/ankush2324235/)
+- [Resume](https://github.com/ankushT369/ankushT369/blob/main/docs/resume.pdf)
 
 Don't forget to [check out my site](https://ankusht369.github.io/portfolio/) and also my [contributions](https://ankusht369.github.io/portfolio/contributions.html)
 <!-- ### Top Contributed Repo
