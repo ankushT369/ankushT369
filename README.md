@@ -1,5 +1,5 @@
 ### Ankush Mondal
-I enjoy doing open source contribution as most of my time I spend doing this. My interest includes Operating system and Database internals, Data Structures and algorithms, Distributed Systems, Security, Cloud Infra sometimes compilers. Currently learning Rust and I do enjoy systems programming.
+I enjoy doing open source contribution as most of my time I spend doing this. My interest includes Operating system and Database internals, Data Structures and algorithms, Distributed Systems, Infra behind the scenes sometimes compilers. Currently learning Rust and I do enjoy systems programming.
 
 **Projects**
 - [Vec – A Fast Dynamic Array for C++ 1.65x faster than std::vector](https://github.com/ankushT369/Vec)
