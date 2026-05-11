@@ -1,6 +1,9 @@
 ### Ankush Mondal
-I enjoy doing open source contribution as most of my time I spend doing this. My interest includes Operating system and Database internals, Data Structures and algorithms, Distributed Systems, Infra behind the scenes sometimes compilers. Currently learning Rust and I do enjoy systems programming.
+I enjoy doing open source contribution as most of my time I spend doing this. My interest includes Operating system and Database internals, Distributed Systems, Data Structures and algorithms, Infrastructure behind the scenes sometimes compilers. Currently learning Rust and I do enjoy systems programming.
 
+[Portfolio](https://ankusht369.github.io/portfolio/)
+
+<!--
 **Projects**
 - [Vec – A Fast Dynamic Array for C++ 1.65x faster than std::vector](https://github.com/ankushT369/Vec)
 - [zail is a high-performance system logs and system metrics shipping daemon built in zig.](https://github.com/ankushT369/zail)
@@ -15,11 +18,12 @@ I enjoy doing open source contribution as most of my time I spend doing this. My
 - [Portfolio](https://ankusht369.github.io/portfolio/)
 - [Contributions](https://ankusht369.github.io/portfolio/contributions.html)
 - [Resume](https://github.com/ankushT369/ankushT369/blob/main/docs/resume1.pdf)
+-->
 
 <!-- ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ankushT369&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Blog I read recently: [How JOIN works under the hood](https://patshaughnessy.net/2015/11/24/a-look-at-how-postgres-executes-a-tiny-join) 
+<!-- Blog I read recently: [How JOIN works under the hood](https://patshaughnessy.net/2015/11/24/a-look-at-how-postgres-executes-a-tiny-join) --> 
 
 <!--![](https://komarev.com/ghpvc/?username=ankushT369&color=blueviolet) -->
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
