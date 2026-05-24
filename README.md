@@ -1,5 +1,5 @@
 ### Ankush Mondal
-I enjoy doing open source contribution as most of my time I spend doing this. My interest includes Operating system and Database internals, Distributed Systems, Data Structures and algorithms, Infrastructure behind the scenes sometimes compilers. Currently learning Rust and I do enjoy systems programming.
+My interest includes Operating system and Database internals, Distributed Systems, Data Structures and algorithms, Infrastructure behind the scenes sometimes compilers. Currently learning Rust and I do enjoy systems programming.
 
 [Portfolio](https://ankusht369.github.io/portfolio/)
 
